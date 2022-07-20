@@ -6,7 +6,7 @@ Ce travail a été réalisé lors du projet 3 de ma formation [OpenClassrooms](h
 L'agence *Santé publique France* a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Mon application permettra de déterminer le nutriscore d'un plat préparé à l'aide d'une photo de son étiquette nutritionnelle.
 Le but ne sera pas de développer l'application mais de conclure sur la faisabilité de celle-ci.
 Pour cela, j'ai réalisé les étapes suivantes :
-- Traitement du jeu de données (récupération des variables pertinentes, nettoyage des doonées)
+- Traitement du jeu de données (récupération des variables pertinentes, nettoyage des données)
 - Analyse univariée pour chacune des variables intéressantes (et production de visualisations)
 - Analyse multivariée et tests statistiques pour valider ou non l'idée d'application
 
